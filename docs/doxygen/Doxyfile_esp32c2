@@ -1,2 +1,0 @@
-INPUT += \
-         $(PROJECT_PATH)/components/driver/esp32c3/include/driver/temp_sensor.h
